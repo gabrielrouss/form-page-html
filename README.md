@@ -1,4 +1,4 @@
-# Desafio da RocketSeat: Social Tree.
+# Desafio da RocketSeat: RocketNews.
 
 Link no codepen: https://codepen.io/gabrielrou/pen/ZEozNPw
 
